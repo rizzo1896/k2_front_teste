@@ -1,0 +1,16 @@
+@mixin button($color, $bg-color) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: $color;
+    background-color: $bg-color;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+
+    width: 150px;
+}

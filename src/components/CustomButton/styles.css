@@ -1,0 +1,14 @@
+.custom-buttom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  background-color: #747474;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  width: 150px;
+}/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,6 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+
+.custom-buttom {
+    @include button($color: $btn-text-color, $bg-color: $btn-background-color)
+}
