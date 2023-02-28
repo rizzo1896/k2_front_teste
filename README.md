@@ -11,8 +11,10 @@ $ Local:   http://127.0.0.1:5173/
 
 É de extrema importancia a API estar funcionando para utilização desta aplicação.
 
-## Features
+```
+- Features
 
 $ Botão de pesquisar
 $ Botão de reset
 $ Enter na caixa de texto para pesquisar
+```
